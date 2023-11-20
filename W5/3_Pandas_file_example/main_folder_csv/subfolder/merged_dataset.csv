@@ -1,0 +1,6 @@
+Student_ID,Name,Age,Grade,Subject,Status,Attendance
+1001,Alice,20,90,Math,Pass,95.0
+1002,Bob,21,85,Science,Pass,90.0
+1003,Charlie,22,77,Math,Fail,
+1004,David,23,95,History,Pass,
+1005,Eva,24,88,Science,Pass,
