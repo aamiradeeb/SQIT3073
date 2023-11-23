@@ -67,3 +67,6 @@ with pd.ExcelWriter(os.path.join(main_folder,'example_dataset.xlsx')) as writer:
     # 10. Pivoting DataFrames
     pivot_df = df.pivot_table(index='Name', columns='Subject', values='Grade', aggfunc='mean')
     pivot_df.to_excel(writer, sheet_name='Pivoted_Data')
+
+# Created by Dr Aamir Adeeb
+# Contact for more info at aamir@uum.edu.my
