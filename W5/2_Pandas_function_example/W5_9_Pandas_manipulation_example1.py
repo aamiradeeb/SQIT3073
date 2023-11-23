@@ -1,16 +1,3 @@
-import os
-
-try:
-    # Attempt to clear the screen for macOS
-    os.system('clear')
-except:
-    try:
-        # Attempt to clear the screen for Windows if the first try fails
-        os.system('cls')
-    except:
-        # Output an error message if both attempts fail
-        print("Unable to clear the screen.")
-
 import pandas as pd
 
 # Create a sample DataFrame

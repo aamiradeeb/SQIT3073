@@ -1,17 +1,3 @@
-import os
-
-try:
-    # Attempt to clear the screen for macOS
-    os.system('clear')
-except:
-    try:
-        # Attempt to clear the screen for Windows if the first try fails
-        os.system('cls')
-    except:
-        # Output an error message if both attempts fail
-        print("Unable to clear the screen.")
-
-
 import numpy as np  # Import the NumPy library for numerical operations
 
 # Create 1D NumPy arrays

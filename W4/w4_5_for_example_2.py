@@ -1,9 +1,3 @@
-import os
-#mac 
-os.system('clear') 
-#window
-#os.system('cls') 
-
 # List of integers
 numbers = [1, 2, 3, 4, 5]
 

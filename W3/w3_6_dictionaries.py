@@ -1,9 +1,3 @@
-import os
-#mac
-os.system('clear') 
-#window
-#os.system('cls') 
-
 # Create a dictionary of student information
 student = {
     "name": "Alice",

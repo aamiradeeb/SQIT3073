@@ -7,12 +7,6 @@
 
 # Example using a for loop:
 
-import os
-#mac 
-os.system('clear') 
-#window
-#os.system('cls') 
-
 my_list_1 = []
 for i in range(5):  # Known range
     my_list_1.append(i)

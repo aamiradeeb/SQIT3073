@@ -1,9 +1,3 @@
-import os
-#mac 
-os.system('clear') 
-#window
-#os.system('cls') 
-
 initial_value=2
 upper_limit=11
 increment=1

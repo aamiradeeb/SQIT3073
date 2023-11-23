@@ -8,12 +8,6 @@
 
 # Example using a while loop:
 
-import os
-#mac 
-os.system('clear') 
-#window
-#os.system('cls') 
-
 my_list = []
 i = 0
 

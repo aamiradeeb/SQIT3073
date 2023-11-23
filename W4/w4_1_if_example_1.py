@@ -1,9 +1,3 @@
-import os
-#mac 
-os.system('clear') 
-#window
-#os.system('cls') 
-
 # Variables containing integers
 a = 10
 b = 20

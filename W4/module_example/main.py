@@ -1,9 +1,3 @@
-import os
-#mac 
-os.system('clear') 
-#window
-#os.system('cls') 
-
 import perimeter
 import area
 import volume

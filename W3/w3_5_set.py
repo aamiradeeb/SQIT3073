@@ -3,12 +3,6 @@
 #items where duplicates are not allowed, 
 #or when you need to perform set operations like union and intersection.
 
-import os
-#mac
-os.system('clear') 
-#window
-#os.system('cls') 
-
 # Create a set
 fruits = {"apple", "banana", "cherry", "date"}
 

@@ -1,10 +1,3 @@
-
-import os
-#mac 
-os.system('clear') 
-#window
-#os.system('cls') 
-
 # Function to perform the calculation
 def calculate(x, y, op):
     if op == '+':

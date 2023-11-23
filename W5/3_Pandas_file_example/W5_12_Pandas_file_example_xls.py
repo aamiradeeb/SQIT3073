@@ -1,8 +1,5 @@
 import os
 
-# Clear the screen
-os.system('cls' if os.name == 'nt' else 'clear')
-
 # Get the current directory where the Python file is located
 current_directory = os.path.dirname(os.path.abspath(__file__))
 

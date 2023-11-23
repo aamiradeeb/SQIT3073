@@ -1,9 +1,3 @@
-import os
-#mac
-os.system('clear') 
-#window
-#os.system('cls') 
-
 # Create a tuple
 fruits = ("apple", "banana", "cherry", "date")
 

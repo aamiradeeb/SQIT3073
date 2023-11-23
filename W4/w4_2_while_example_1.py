@@ -1,9 +1,3 @@
-import os
-#mac 
-os.system('clear') 
-#window
-#os.system('cls') 
-
 i=1
 
 while (i<=10):
