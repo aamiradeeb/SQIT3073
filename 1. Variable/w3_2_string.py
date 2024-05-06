@@ -1,5 +1,5 @@
 # Define a string variable
-message = "Hello, World!"
+message = "This is an apple."
 
 # Print the string
 print(message)
@@ -31,12 +31,9 @@ uppercase_message = greeting.upper()
 print("Uppercase message:", uppercase_message)
 
 # Check if a substring is in the string
-contains_DuniA = "DuniA" in greeting
-print("Does the message contain 'DuniA'? ", contains_DuniA)
+contains_TZYY = "TZYY" in greeting
+print("Does the message contain 'TZYY'? ", contains_TZYY)
 
 # Replace part of the string
-new_message = message.replace("DuniA", "World")
+new_message = message.replace("TZYY", "World")
 print("Updated message:", new_message)
-
-# Created by Dr Aamir Adeeb
-# Contact for more info at aamir@uum.edu.my
