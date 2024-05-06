@@ -1,4 +1,4 @@
-# Get user input for integer and floating-point numbers
+# Get user input for integer and floating-point numbers（let us give a=1,b=2,c=3)
 a = float(input("Enter a number (a): "))
 b = float(input("Enter another number (b): "))
 c = int(input("Enter an integer (c): "))
@@ -40,6 +40,3 @@ factorial_c = math.factorial(abs(c))
 print("Square root of a:", square_root_a)
 print("Logarithm base 10 of a:", logarithm_base_10_a)
 print(f"Factorial of |c| ({abs(c)}):", factorial_c)
-
-# Created by Dr Aamir Adeeb
-# Contact for more info at aamir@uum.edu.my
